@@ -1,4 +1,13 @@
 
+@font-face {
+    font-family: 'veteran';
+    src: url('../fonts/veteran_typewriter_regular-webfont.woff2') format('woff2'),
+         url('..fonts/veteran_typewriter_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
     font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace; 
 }
